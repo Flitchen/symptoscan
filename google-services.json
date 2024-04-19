@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243157630908",
+    "project_id": "symptoscan-ca6f8",
+    "storage_bucket": "symptoscan-ca6f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243157630908:android:8f1d582f510e83f2c7f5b9",
+        "android_client_info": {
+          "package_name": "com.dulab.SymptoScan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Y3e3_fEYjYIuMlfv4hVzhXnlsdb19kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
