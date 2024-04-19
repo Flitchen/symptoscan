@@ -1,10 +1,3 @@
-export const openAIapiKey =
-  "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";
-export const newOpenAIapiKey =
-  "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";
-
-export const googleApiKey = "AIzaSyC_sejHSK6Tiu1ZmMCVOf0QeU98f-FEH28";
-
 export const Orange = "#FC9D45";
 export const Orange100 = "#FDA758";
 export const screenBg = "#FFF3E9";

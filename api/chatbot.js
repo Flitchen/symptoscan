@@ -1,8 +1,8 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import { googleApiKey, newOpenAIapiKey } from "../constants";
+// import { googleApiKey, newOpenAIapiKey } from "../constants";
 // import OpenAI from "openai";
 
-const genAI = new GoogleGenerativeAI(googleApiKey);
+const genAI = new GoogleGenerativeAI(process.env.googleApiKey);
 
 export const askChatbot = async (symptom) => {
   // For text-only input, use the gemini-pro model
