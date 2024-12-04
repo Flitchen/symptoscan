@@ -1,5 +1,5 @@
 
-## SymptoScan
+# SymptoScan
 
 SymptoScan is a mobile application that helps users identify potential illnesses based on described symptoms. Powered by Gemini AI, this app provides quick and accurate suggestions for possible diseases, enabling users to make informed decisions about their health.
 ## Features
